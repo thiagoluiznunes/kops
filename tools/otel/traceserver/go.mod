@@ -4,7 +4,7 @@ go 1.22.5
 
 require (
 	go.opentelemetry.io/proto/otlp v1.3.1
-	google.golang.org/grpc v1.65.0
+	google.golang.org/grpc v1.66.0
 	google.golang.org/protobuf v1.34.2
 	k8s.io/klog/v2 v2.130.1
 	k8s.io/kops v1.28.0
@@ -44,9 +44,9 @@ require (
 	golang.org/x/oauth2 v0.22.0 // indirect
 	golang.org/x/sys v0.24.0 // indirect
 	golang.org/x/text v0.17.0 // indirect
-	google.golang.org/api v0.194.0 // indirect
-	google.golang.org/genproto/googleapis/api v0.0.0-20240730163845-b1a4ccb954bf // indirect
-	google.golang.org/genproto/googleapis/rpc v0.0.0-20240814211410-ddb44dafa142 // indirect
+	google.golang.org/api v0.195.0 // indirect
+	google.golang.org/genproto/googleapis/api v0.0.0-20240814211410-ddb44dafa142 // indirect
+	google.golang.org/genproto/googleapis/rpc v0.0.0-20240823204242-4ba0660f739c // indirect
 	k8s.io/apimachinery v0.31.0 // indirect
 	k8s.io/client-go v0.31.0 // indirect
 	k8s.io/utils v0.0.0-20240821151609-f90d01438635 // indirect
