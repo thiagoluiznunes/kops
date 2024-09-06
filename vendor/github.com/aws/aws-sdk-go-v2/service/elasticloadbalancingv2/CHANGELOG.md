@@ -1,3 +1,12 @@
+# v1.35.1 (2024-09-04)
+
+* No change notes available for this release.
+
+# v1.35.0 (2024-09-03)
+
+* **Feature**: This release adds support for configuring TCP idle timeout on NLB and GWLB listeners.
+* **Dependency Update**: Updated to the latest SDK module versions
+
 # v1.34.2 (2024-08-22)
 
 * No change notes available for this release.
