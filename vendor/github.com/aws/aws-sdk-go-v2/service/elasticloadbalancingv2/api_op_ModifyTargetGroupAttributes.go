@@ -29,7 +29,7 @@ func (c *Client) ModifyTargetGroupAttributes(ctx context.Context, params *Modify
 
 type ModifyTargetGroupAttributesInput struct {
 
-	// The attributes.
+	// The target group attributes.
 	//
 	// This member is required.
 	Attributes []types.TargetGroupAttribute
@@ -44,7 +44,7 @@ type ModifyTargetGroupAttributesInput struct {
 
 type ModifyTargetGroupAttributesOutput struct {
 
-	// Information about the attributes.
+	// Information about the target group attributes.
 	Attributes []types.TargetGroupAttribute
 
 	// Metadata pertaining to the operation's result.
