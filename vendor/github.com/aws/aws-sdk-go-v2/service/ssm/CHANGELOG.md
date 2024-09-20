@@ -1,3 +1,16 @@
+# v1.53.0 (2024-09-17)
+
+* **Feature**: Support for additional levels of cross-account, cross-Region organizational units in Automation. Various documentation updates.
+* **Bug Fix**: **BREAKFIX**: Only generate AccountIDEndpointMode config for services that use it. This is a compiler break, but removes no actual functionality, as no services currently use the account ID in endpoint resolution.
+
+# v1.52.8 (2024-09-04)
+
+* No change notes available for this release.
+
+# v1.52.7 (2024-09-03)
+
+* **Dependency Update**: Updated to the latest SDK module versions
+
 # v1.52.6 (2024-08-22)
 
 * No change notes available for this release.
